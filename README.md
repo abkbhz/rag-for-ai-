@@ -22,7 +22,6 @@ Installation
 #Prerequisites
 Git
 Command line familiarity
-Clone the Repository: git clone https://github.com/NebeyouMusie/End-to-End-RAG-Project-using-ObjectBox-and-LangChain.git
 Create and Activate Virtual Environment (Recommended)
 python -m venv venv
 source venv/bin/activate
